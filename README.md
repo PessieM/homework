@@ -5,6 +5,7 @@ This is for me to hand in homework in my **Introduction to Product Development**
 - Slack
 - HTML
 - CSS
+- Version Control
 - Git
 
 ## Usage
