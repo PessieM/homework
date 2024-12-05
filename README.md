@@ -5,12 +5,13 @@ This is for me to hand in homework in my **Introduction to Product Development**
 - Slack
 - HTML
 - CSS
+- Visual Studio Code
 - Version Control
 - Git
+ - this is developer 1 making a change to line 11
 
 ## Usage
 Sumitting homework for class and reviewing homework for help with later assignments
-
 
 ## Author
 Pessie Mittelman
