@@ -8,6 +8,8 @@ This is for me to hand in homework in my **Introduction to Product Development**
 - Visual Studio Code
 - Version Control
 - Git
+   - making a change
+   - making a merge conflict
 
 ## Usage
 Sumitting homework for class and reviewing homework for help with later assignments
