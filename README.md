@@ -9,6 +9,8 @@ This is for me to hand in homework in my **Introduction to Product Development**
 - Version Control
 - Git
  - this is developer 1 making a change to line 11
+   - making a change
+   - making a merge conflict
 
 ## Usage
 Sumitting homework for class and reviewing homework for help with later assignments
