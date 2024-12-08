@@ -11,6 +11,9 @@ This is for me to hand in homework in my **Introduction to Product Development**
  - this is on main
  - this is making a change
  - this is making a merge conflict
+ - this is developer 1 making a change to line 11
+   - making a change
+   - making a merge conflict
 
 ## Usage
 Sumitting homework for class and reviewing homework for help with later assignments
