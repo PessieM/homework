@@ -1,1 +1,54 @@
-# flex.css
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    margin: 2px;
+}
+
+.flex-item {
+    padding: 10px;
+    background-color: pink;
+    margin: 2px;
+}
+
+.grid-container {
+    display: grid;
+    margin: 2px;
+}
+
+.grid-item {
+    padding: 10px;
+    background-color: deeppink;
+    margin: 2px;
+}
+
+.responsive-box1 {
+    padding: 10px;
+    background-color: lightblue;
+    font-size: large;
+    margin: 2px;
+}
+
+@media (max-width: 600px) {
+    .responsive-box1 {
+        background-color: silver;
+        font-size: small;
+    }
+}
+
+.responsive-box2 {
+    padding: 10px;
+    background-color: purple;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 2px;
+}
+
+@media (max-width: 600px) {
+    .responsive-box2 {
+        background-color: lightgoldenrodyellow;
+        font-family: 'Courier New', Courier, monospace;
+    }
+}
+
+.script {
+    padding: 10px;
+}
